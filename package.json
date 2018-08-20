@@ -1,0 +1,27 @@
+{
+  "name": "kassyd",
+  "version": "1.0.0",
+  "description": "一个用node.js写的爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kassyd/crawler.git"
+  },
+  "keywords": [
+    "爬虫",
+    "node.js"
+  ],
+  "author": "kassyd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kassyd/crawler/issues"
+  },
+  "homepage": "https://github.com/kassyd/crawler#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.3"
+  }
+}
